@@ -1,0 +1,6 @@
+- Developed a web application using Next.js and React, enabling users to generate scripts for video ads and create AI-generated video advertisements.  
+- Utilized Convex as the database for efficient data management and storage.  
+- Built the frontend and backend with Next.js, React, HTML, CSS, and TailwindCSS, ensuring a responsive and seamless user experience.  
+- Integrated Akool AI to enhance AI-driven video generation capabilities.  
+- Implemented Inngest for reliable event handling and workflow management.  
+- Leveraged Remotion to create a custom video player for video rendering and preview functionalities, providing a complete video ad production solution.
