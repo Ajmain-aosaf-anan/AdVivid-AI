@@ -4,3 +4,4 @@
 - Integrated Akool AI to enhance AI-driven video generation capabilities.  
 - Implemented Inngest for reliable event handling and workflow management.  
 - Leveraged Remotion to create a custom video player for video rendering and preview functionalities, providing a complete video ad production solution.
+- Applied sample billing system layout for the premium users
